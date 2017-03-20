@@ -1,0 +1,79 @@
+body{
+    background-color: #000000;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+#first-line{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#tom-hanks{
+    border: solid #5c5c8a 20px;
+    padding: 40px;
+    width: 30%;
+    margin: 20px;
+    margin-left: 100px
+}
+
+#dakota-fanning{
+    border: dashed #ff0066 55px;
+    width: 30%;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+#second-line{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#robert-downey-jr{
+    border: groove #99d6ff 45px;
+    padding: 15px;
+    width: 25%;
+    margin: 10px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+}
+
+#blondie{
+    border: dashed #00ff00 40px;
+    width: 26%;
+    margin: 10px;
+}
+
+#pat-benatar{
+    border: dotted #ff8080 35px;
+    width: 17%;
+    margin: 10px;
+    margin-bottom: 25px;
+}
+
+#third-line{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#johnny-depp{
+    border: double #660066 60px;
+    width: 20%;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 110px;
+}
+
+#kristen-stewart{
+    border: solid #660000 40px;
+    width: 35%;
+    margin: 20px;
+    padding: 25px;
+}
